@@ -9,7 +9,7 @@ const More = () => {
         <div className="flex items-center">
           <div className="text-4xl font-semibold text-gray-50">
             <h2>Find out more</h2>
-            <h2> about how we work</h2>
+            <h2> about how we work</h2> 
           </div>
         </div>
         {/* right */}

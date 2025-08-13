@@ -9,7 +9,7 @@ const Navbar = () => {
           <img src="/assets/images/logo.svg" alt="logo" />
         </div>
         {/* right */}
-        <div className="">
+        <div className=""> 
           <ul className='flex items-center gap-5 text-gray-700'>
             <li className='hover:text-gray-950'>
               <a href="#about">How we work</a>

@@ -4,7 +4,7 @@ const HeroSection = () => {
   return (
     <div className="h-[120vh] relative ">
 
-        <img
+        <img 
           src="/assets/images/bg-pattern-intro-right-desktop.svg"
           alt=""
           className="w-[350px] absolute right-0 -top-0 "
